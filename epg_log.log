@@ -1,0 +1,42 @@
+2025-10-02 19:13:49 __main__ INFO:Start
+
+2025-10-02 19:13:50 __main__ INFO:Download of https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz completed in 0.58 seconds.
+2025-10-02 19:13:50 __main__ INFO:Extract : temp_epg_files/epg_ripper_IT1.xml.gz
+2025-10-02 19:13:50 __main__ INFO:File exctracted: temp_epg_files/epg_ripper_IT1.xml
+2025-10-02 19:13:50 __main__ INFO:Processing: temp_epg_files/epg_ripper_IT1.xml
+2025-10-02 19:13:50 __main__ INFO:No info's found in https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz for channels:
+                                  TV2000.it.it
+                                  Sky.Sport24.it
+                                  -frisbee-.it
+                                  Super!.it.it
+2025-10-02 19:13:50 __main__ INFO:Extracted data from temp_epg_files/epg_ripper_IT1.xml
+2025-10-02 19:13:50 __main__ INFO:Reading completed. Exctracted channels: 84. Extracted programs: 8772
+2025-10-02 19:13:50 __main__ INFO:Temp file deleted
+
+2025-10-02 19:13:50 __main__ INFO:No channels listed for source: https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_IT1.xml.gz
+
+2025-10-02 19:13:50 __main__ ERROR:Error during download of https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_IT1.xml.gz ( after 0.25 seconds): 404 Client Error: Not Found for url: https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_IT1.xml.gz
+
+2025-10-02 19:13:51 __main__ INFO:Download of https://www.open-epg.com/files/serbia3.xml.gz completed in 0.68 seconds.
+2025-10-02 19:13:51 __main__ INFO:Extract : temp_epg_files/serbia3.xml.gz
+2025-10-02 19:13:51 __main__ ERROR:File not valid. Not possible to extract info: Not a gzipped file (b'<s')
+2025-10-02 19:13:51 __main__ INFO:Temp file deleted
+
+2025-10-02 19:13:51 __main__ ERROR:Error during download of https://epgshare01.online/epgshare01/bad_file.xml.gz ( after 0.13 seconds): 404 Client Error: Not Found for url: https://epgshare01.online/epgshare01/bad_file.xml.gz
+
+2025-10-02 19:13:55 __main__ INFO:Download of https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz completed in 4.18 seconds.
+2025-10-02 19:13:55 __main__ INFO:Extract : temp_epg_files/epg_ripper_FR1.xml.gz
+2025-10-02 19:13:55 __main__ INFO:File exctracted: temp_epg_files/epg_ripper_FR1.xml
+2025-10-02 19:13:56 __main__ INFO:Processing: temp_epg_files/epg_ripper_FR1.xml
+2025-10-02 19:13:56 __main__ INFO:No info's found in https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz for channels:
+                                  Beinsports.2.tr
+                                  Beinsports.3.tr
+                                  Beinsports.4.tr
+                                  Beinsports.1.tr
+2025-10-02 19:13:56 __main__ INFO:Extracted data from temp_epg_files/epg_ripper_FR1.xml
+2025-10-02 19:13:56 __main__ INFO:Reading completed. Exctracted channels: 10. Extracted programs: 626
+2025-10-02 19:13:56 __main__ INFO:Temp file deleted
+
+2025-10-02 19:13:56 __main__ INFO:  Temp directory 'temp_epg_files' cleaning complete
+
+2025-10-02 19:13:57 __main__ INFO:File EPG XML successfully created: epg.xml
