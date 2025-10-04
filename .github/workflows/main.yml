@@ -3,9 +3,9 @@ name: EPG Merger & Update
 on:
   # Trigger manuale
   workflow_dispatch:
-  # Trigger schedulato (ogni giorno 01:00 UTC)
+  # Trigger schedulato (ogni giorno 07:00 UTC)
   schedule:
-    - cron: '0 01 * * *'
+    - cron: '0 07 * * *'
 
 jobs:
   run-epg-merger:
