@@ -1,47 +1,39 @@
 name: EPG Merger & Update
 
 on:
-  # Trigger manuale, utile per testare o eseguire on demand
+  # Trigger manuale
   workflow_dispatch:
-  # Trigger schedulato (ogni giorno a mezzanotte UTC)
+  # Trigger schedulato (ogni giorno 01:00 UTC)
   schedule:
     - cron: '0 01 * * *'
 
 jobs:
   run-epg-merger:
-    # Esegue su un ambiente Linux
     runs-on: ubuntu-latest
     
     steps:
-    
-      # 1. Checkout del codice
       - name: Checkout Repository
         uses: actions/checkout@v4
-        # Necessario per l'azione di commit automatico
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           
-      # 2. Setup dell'ambiente Python 3.x
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
           
-      # 3. Installazione delle dipendenze
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           
-      # 4. Esecuzione dello script Python
       - name: Run EPG Merge Script
         run: python epg_merge.py
         
-      # 5. Commit e Push dei file generati
-      # Verranno committati e pushati epg.xml e epg_log.log (se modificati)
+      # Commit e Push dei file generati
       - name: Commit generated EPG and Log files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automated EPG Update"
           file_pattern: 'epg.xml epg_log.log'
-          branch: main # O il nome del tuo branch principale
+          branch: main 
