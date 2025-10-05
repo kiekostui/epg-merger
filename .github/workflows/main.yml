@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   # Trigger schedulato (ogni giorno 05:00 UTC)
   schedule:
-    - cron: '0 05 * * *'
+    - cron: '0 */6 * * *'
 
 jobs:
   run-epg-merger:
