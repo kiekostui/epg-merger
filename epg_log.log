@@ -1,34 +1,34 @@
-2025-10-12 01:46:30 __main__ INFO:Start
+2025-10-12 06:29:29 __main__ INFO:Start
 
-2025-10-12 01:46:30 __main__ INFO:Download of https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz completed in 0.20 seconds.
-2025-10-12 01:46:30 __main__ INFO:Extract : temp_epg_files/epg_ripper_IT1.xml.gz
-2025-10-12 01:46:30 __main__ INFO:File exctracted: temp_epg_files/epg_ripper_IT1.xml
-2025-10-12 01:46:31 __main__ INFO:Processing: temp_epg_files/epg_ripper_IT1.xml
-2025-10-12 01:46:31 __main__ INFO:No info's found in https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz for channels:
+2025-10-12 06:29:30 __main__ INFO:Download of https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz completed in 0.10 seconds.
+2025-10-12 06:29:30 __main__ INFO:Extract : temp_epg_files/epg_ripper_IT1.xml.gz
+2025-10-12 06:29:30 __main__ INFO:File exctracted: temp_epg_files/epg_ripper_IT1.xml
+2025-10-12 06:29:30 __main__ INFO:Processing: temp_epg_files/epg_ripper_IT1.xml
+2025-10-12 06:29:30 __main__ INFO:No info's found in https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz for channels:
                                   Super!.it.it
                                   TV2000.it.it
-2025-10-12 01:46:31 __main__ INFO:Extracted data from temp_epg_files/epg_ripper_IT1.xml
-2025-10-12 01:46:31 __main__ INFO:Reading completed. Exctracted channels: 86. Extracted programs: 9076
-2025-10-12 01:46:31 __main__ INFO:Temp file deleted
+2025-10-12 06:29:30 __main__ INFO:Extracted data from temp_epg_files/epg_ripper_IT1.xml
+2025-10-12 06:29:30 __main__ INFO:Reading completed. Exctracted channels: 86. Extracted programs: 9076
+2025-10-12 06:29:30 __main__ INFO:Temp file deleted
 
-2025-10-12 01:46:31 __main__ INFO:Download of https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/it.xml.gz completed in 0.34 seconds.
-2025-10-12 01:46:31 __main__ INFO:Extract : temp_epg_files/it.xml.gz
-2025-10-12 01:46:31 __main__ INFO:File exctracted: temp_epg_files/it.xml
-2025-10-12 01:46:31 __main__ INFO:Processing: temp_epg_files/it.xml
-2025-10-12 01:46:31 __main__ INFO:No info's found in https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/it.xml.gz for channels:
+2025-10-12 06:29:30 __main__ INFO:Download of https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/it.xml.gz completed in 0.21 seconds.
+2025-10-12 06:29:30 __main__ INFO:Extract : temp_epg_files/it.xml.gz
+2025-10-12 06:29:30 __main__ INFO:File exctracted: temp_epg_files/it.xml
+2025-10-12 06:29:30 __main__ INFO:Processing: temp_epg_files/it.xml
+2025-10-12 06:29:30 __main__ INFO:No info's found in https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/it.xml.gz for channels:
                                   65d7211d0d45610008ffcf92
-2025-10-12 01:46:31 __main__ INFO:Extracted data from temp_epg_files/it.xml
-2025-10-12 01:46:31 __main__ INFO:Reading completed. Exctracted channels: 130. Extracted programs: 3093
-2025-10-12 01:46:31 __main__ INFO:Temp file deleted
+2025-10-12 06:29:30 __main__ INFO:Extracted data from temp_epg_files/it.xml
+2025-10-12 06:29:30 __main__ INFO:Reading completed. Exctracted channels: 130. Extracted programs: 3105
+2025-10-12 06:29:30 __main__ INFO:Temp file deleted
 
-2025-10-12 01:46:32 __main__ INFO:Download of https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz completed in 0.34 seconds.
-2025-10-12 01:46:32 __main__ INFO:Extract : temp_epg_files/it.xml.gz
-2025-10-12 01:46:32 __main__ INFO:File exctracted: temp_epg_files/it.xml
-2025-10-12 01:46:32 __main__ INFO:Processing: temp_epg_files/it.xml
-2025-10-12 01:46:32 __main__ INFO:Extracted data from temp_epg_files/it.xml
-2025-10-12 01:46:32 __main__ INFO:Reading completed. Exctracted channels: 158. Extracted programs: 1402
-2025-10-12 01:46:32 __main__ INFO:Temp file deleted
+2025-10-12 06:29:31 __main__ INFO:Download of https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz completed in 0.27 seconds.
+2025-10-12 06:29:31 __main__ INFO:Extract : temp_epg_files/it.xml.gz
+2025-10-12 06:29:31 __main__ INFO:File exctracted: temp_epg_files/it.xml
+2025-10-12 06:29:31 __main__ INFO:Processing: temp_epg_files/it.xml
+2025-10-12 06:29:31 __main__ INFO:Extracted data from temp_epg_files/it.xml
+2025-10-12 06:29:31 __main__ INFO:Reading completed. Exctracted channels: 158. Extracted programs: 1370
+2025-10-12 06:29:31 __main__ INFO:Temp file deleted
 
-2025-10-12 01:46:32 __main__ INFO:  Temp directory 'temp_epg_files' cleaning complete
+2025-10-12 06:29:31 __main__ INFO:  Temp directory 'temp_epg_files' cleaning complete
 
-2025-10-12 01:46:32 __main__ INFO:File EPG XML successfully created: epg.xml
+2025-10-12 06:29:31 __main__ INFO:File EPG XML successfully created: epg.xml
