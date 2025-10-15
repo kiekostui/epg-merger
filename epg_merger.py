@@ -188,6 +188,9 @@ channel_section_xml = []
 programm_section_xml = []
 temp_dir = os.path.relpath(TEMP_DIR_NAME)
 
+#Temp directory creation (if not exists)
+os.makedirs(temp_dir, exist_ok=True)
+
 #Initial cleaning of temp directory   
 for temp_file in os.listdir(temp_dir):
     try:
