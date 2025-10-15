@@ -31,7 +31,7 @@ jobs:
         run: python epg_merger.py
         
       # Commit e Push dei file generati
-      - name: Commit generated EPG and Log files
+      - name: Commit generated EPG 
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automated EPG Update"
