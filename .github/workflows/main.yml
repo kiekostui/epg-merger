@@ -28,12 +28,12 @@ jobs:
           pip install -r requirements.txt
           
       - name: Run EPG Merge Script
-        run: python epg_merge.py
+        run: python epg_merger.py
         
       # Commit e Push dei file generati
       - name: Commit generated EPG and Log files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automated EPG Update"
-          file_pattern: 'epg.xml epg_log.log'
+          file_pattern: 'epg.xml'
           branch: main 
