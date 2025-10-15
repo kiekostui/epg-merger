@@ -1,3 +1,5 @@
+timeframe=36
+
 https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz
 Rai1.it
 Rai2.it
