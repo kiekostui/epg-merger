@@ -8,7 +8,7 @@ import sys
 
 SOURCE_FILE = 'source_epg.txt'  # File name with epg sources and channels
 OUTPUT_XML = 'epg.xml'          # Output epg file name
-TEMP_DIR_NAME = 'temp_epg_files'
+TEMP_DIR_NAME = 'temp_epg_files' #Directory to cache temporary downloaded files
 DEFAULT_TIME_FRAME = 48         # Default value if not present in the source file
 
 
@@ -188,9 +188,16 @@ def main():
         print()
 
     root = ET.Element('tv')
-    for channel in channel_section_xml:
+
+    channels_sorted = sorted(channel_section_xml, key=lambda c: c.attrib['id'].lower())
+    programmes_sorted = sorted(
+        programm_section_xml,
+        key=lambda p: (p.attrib['channel'].lower(), p.attrib['start'])
+        )
+    
+    for channel in channels_sorted:
         root.append(channel)
-    for programme in programm_section_xml:
+    for programme in programmes_sorted:
         root.append(programme)
 
     tree = ET.ElementTree(root)
