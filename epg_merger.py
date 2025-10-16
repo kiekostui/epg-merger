@@ -189,6 +189,7 @@ def main():
 
     root = ET.Element('tv')
 
+    #sort channels and programmes
     channels_sorted = sorted(channel_section_xml, key=lambda c: c.attrib['id'].lower())
     programmes_sorted = sorted(
         programm_section_xml,
