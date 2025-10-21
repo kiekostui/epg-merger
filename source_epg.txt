@@ -54,7 +54,7 @@ Eurosport.1.it
 Eurosport.2.it
 
 
-https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/it.xml.gz
+https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_pluto_it.xml
 61c09e3ac210ed0007606620
 62e8d3c2c2db99000787b786
 685a7fc00cba305fd20ed869
