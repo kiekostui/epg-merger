@@ -55,16 +55,6 @@ Eurosport.2.it
 
 
 https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_pluto_it.xml
-61c09e3ac210ed0007606620
-68bed49e00a2f063fd14dba9
-62e8d3c2c2db99000787b786
-685a7fc00cba305fd20ed869
-6633551323e24f00084744aa
-663354f3cd43940008602115
-66335533307fa300082bd80a
-66c35c0c92b1af0008c8e83a
-639b4e5373423d00071ce330
-66c70033b1a34600087bb09a
 66a0eea88561260008b1c5d0
 62442f28afe626000747f195
 660fc6630cd4630008fae92f
@@ -91,12 +81,14 @@ https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_plut
 6245d4511358320007029cdf
 608aa17fb9f4490007e6419a
 608aa20a2e7f270007c4878d
+61c09e3ac210ed0007606620
 608aa5e995132a00075f7005
 64808a8c536e0c0008a276d1
 608aa4a4cc92820007b663af
-608aa512d67fd900072323db
+612e05b885183d0007958101
 688244971027d56590287356
 688244e00a154253b39f3e44
+608aa512d67fd900072323db
 608aa42b5c2b8f0007197529
 608aa3c446d73500075f0e24
 62e7fb67478a5b0007e6c50c
@@ -111,6 +103,10 @@ https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_plut
 65f865a62873090008d06382
 6536608b4f123d000876b78b
 653660b4295b840008a70ba3
+6633551323e24f00084744aa
+66335533307fa300082bd80a
+66c35c0c92b1af0008c8e83a
+66c70033b1a34600087bb09a
 6581a09edfed030008e12b39
 65cb73d33ba51e00084cabad
 62e8d5369e48940007fc1dc1
@@ -148,6 +144,7 @@ https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_plut
 609404b0a8ec810007d8de9d
 608014d19a26320007c92ab6
 6093f48c95132a00075fd859
+65d7211d0d45610008ffcf92
 68adb5853efb41cd97ce413d
 67851bd7d648bf0008c00bc2
 6093f9281db477000759fce0
@@ -160,16 +157,16 @@ https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_plut
 612375086abc84000738fc03
 62619405c733e8000732d1fe
 66a8c64814a2bb00084d09d6
-62e8e4e19bc0ab00072e049f
 626182c72e4c720007432786
+62e8e4e19bc0ab00072e049f
 62e8ddbbaed0390007b258a6
 61925ea79541940007d20881
 609401db8cf51c00084b592e
 63c012504faf1c0007abfa93
 6304ed62410a4c00083c0291
 666174c9f999220008769012
-6093f7b5bb49b90007cecaad
 664f0ddbf78a8500092dcffa
+6093f7b5bb49b90007cecaad
 608aa718a8ec810007d87fee
 60801976f92a750007a0699c
 63c923944207be0007fd0887
@@ -191,101 +188,106 @@ https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_plut
 6690f892d51259000880d1c4
 63724270c7c2360007b170e8
 
+
 https://raw.githubusercontent.com/kiekostui/rakuten_tv_it/refs/heads/main/epg_rakuten_it.xml
-top-movies-rakuten-tv
-action-rakuten-tv
-comedy-rakuten-tv
-drama-rakuten-tv
-romance-rakuten-tv
-asian-cinema-rakuten-tv
-sci-fi-rakuten-tv
-trailers
-bizzarro-movies
-comicita-piccante-movies
-western-e-peplum
-dark-matter-it-new
-cg-cinema-d-autore
-brividy-cinema-ita
-grjngo-it
-risate-all-italiana
-crime-rakuten-tv
-filmrise-sci-fi-it
-filmrise-relic-hunter-ita
-serially-crime-ita
-andromeda-it
-soap-latino-it
-soap-turco-it
-risate-dal-sud-ita
-bbc-drama-it
-filmrise-highway-to-heaven-it
-rakuten-viki-new
-bbc-top-gear-it
-inazuma-eleven-go
-inuyasha
-yu-gi-oh-new-ita
-mr-bean-it
-mr-bean-live-action
-the-pet-collective-new
-people-are-awesome-new
-revry
-jukin-fail-army-new
-top-barca-eng
-fifa-plus-it-new
-inter-24-7-ita
-fuel-tv-new
-billiards-tv
-hard-knocks-fighting-championship
-glory-kickboxing
-world-poker-tour
-sport-italia
-pfl-mma
-motorsport-tv-en
-racer-international
-golf-tv
-red-bull-tv-en
-motorvision-tv
-motoretro
-fashion-tv
-the-design-network-new
-per-caso-tv
-brindiamo
-travelxp-eng
-stingray-naturescape
-daystar-spa
-daystar-eng
-gusto-tv-new
-gambero-rosso
-qwest-tv
-radio-italia-trend
-stingray-greatest-hits
-stingray-hit-list
-stingray-remember-the-80-s
-qello-concerts-by-stingray
-deluxe-lounge-hd
-now-70s
-now-80s
-now-rock
-trace-urban
-vevo-pop-it
-vevo-pop-90-00-it
-now-90s00s
-family-rakuten-tv
-baby-shark-tv
-car-city-adventures-it
-planeta-junior-ita
-hell-s-kitchen-it-itv
-filmrise-forensic-files-ita
-weather-spy-new
-wedo-big-stories-ita
-cgtn-documentary
-euronews-live-ita
-the-reuters-60
-urania-news
-revry-news
-bloomberg-originals-new
-bloomberg-tv-plus
-africanews-eng
-cgtn
-newsworld-ita
-france-24-en
+Film Top - Rakuten TV
+Azione - Rakuten TV
+Commedia - Rakuten TV
+Dramma - Rakuten TV
+Romance - Rakuten TV
+Film Asiatici - Rakuten TV
+Fantascienza - Rakuten TV
+100% Natale - Rakuten TV
+Bizzarro Movies
+Cinema Italiano
+CineWestern
+Dark Matter
+CG Grandi Film
+Brividy Cinema
+Grjngo - Film Western
+Alberto Sordi & Co
+Serie Crime - Rakuten TV
+FilmRise Sci-Fi
+Relic Hunter
+Serially Crime
+Andromeda
+Soap Latino
+Soap Turco
+Risate dal Sud
+BBC Drama
+Autostop per il Cielo
+Rakuten VIKI
+Top Gear
+Inazuma Eleven Collection
+Inuyasha
+Yu-Gi-Oh!
+Mr. Bean
+Mr. Bean - Live Action
+Guardia Costiera
+Squadra Speciale Lipsia
+The Pet Collective
+People Are Awesome
+Revry
+Fail Army
+TOP Barça
+FIFA+
+INTER 24/7
+FUEL TV
+World Billiards TV
+Hard Knocks Fighting Championship
+GLORY Kickboxing
+World Poker Tour
+Sport Italia
+PFL MMA
+Motorsport.tv
+RACER International
+Golf Television
+Red Bull TV
+MOTORVISION.TV
+Motoretrò
+Tennis+
+Fashion TV
+The Design Network
+Per Caso TV
+Brindiamo!
+Travelxp
+Stingray Naturescape
+Daystar Español
+Daystar TV
+Gusto TV
+Gambero Rosso
+Metal.Rocks
+Qwest TV
+Radio Italia Trend
+Stingray Greatest Holiday Hits
+Stingray: Hitlist
+Stingray: Remember the 80’s
+Qello Concerts by Stingray
+Deluxe Lounge HD
+NOW 70s
+NOW 80s
+NOW Rock
+Trace Urban
+Vevo Pop
+Vevo '90s & '00s
+NOW 90s00s
+Baby Shark TV
+Car City Adventures
+Bernard L'Orso
+Hell's Kitchen
+Forensic Files
+Weather Spy
+wedo Big Stories
+CGTN Documentary
+80 Anni - 2a Guerra Mondiale
+Euronews IN DIRETTA
+The Reuters 60
+Urania News
+Revry News
+Bloomberg Originals
+Bloomberg TV+
+Africanews
+CGTN
+NewsWorld
+France 24 FAST English
 
