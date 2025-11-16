@@ -190,104 +190,104 @@ https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_plut
 
 
 https://raw.githubusercontent.com/kiekostui/rakuten_tv_it/refs/heads/main/epg_rakuten_it.xml
-Film Top - Rakuten TV
-Azione - Rakuten TV
-Commedia - Rakuten TV
-Dramma - Rakuten TV
-Romance - Rakuten TV
-Film Asiatici - Rakuten TV
-Fantascienza - Rakuten TV
-100% Natale - Rakuten TV
-Bizzarro Movies
-Cinema Italiano
-CineWestern
-Dark Matter
-CG Grandi Film
-Brividy Cinema
-Grjngo - Film Western
-Alberto Sordi & Co
-Serie Crime - Rakuten TV
-FilmRise Sci-Fi
-Relic Hunter
-Serially Crime
-Andromeda
-Soap Latino
-Soap Turco
-Risate dal Sud
-BBC Drama
-Autostop per il Cielo
-Rakuten VIKI
-Top Gear
-Inazuma Eleven Collection
-Inuyasha
-Yu-Gi-Oh!
-Mr. Bean
-Mr. Bean - Live Action
-Guardia Costiera
-Squadra Speciale Lipsia
-The Pet Collective
-People Are Awesome
-Revry
-Fail Army
-TOP Barça
-FIFA+
-INTER 24/7
-FUEL TV
-World Billiards TV
-Hard Knocks Fighting Championship
-GLORY Kickboxing
-World Poker Tour
-Sport Italia
-PFL MMA
-Motorsport.tv
-RACER International
-Golf Television
-Red Bull TV
-MOTORVISION.TV
-Motoretrò
-Tennis+
-Fashion TV
-The Design Network
-Per Caso TV
-Brindiamo!
-Travelxp
-Stingray Naturescape
-Daystar Español
-Daystar TV
-Gusto TV
-Gambero Rosso
-Metal.Rocks
-Qwest TV
-Radio Italia Trend
-Stingray Greatest Holiday Hits
-Stingray: Hitlist
-Stingray: Remember the 80’s
-Qello Concerts by Stingray
-Deluxe Lounge HD
-NOW 70s
-NOW 80s
-NOW Rock
-Trace Urban
-Vevo Pop
-Vevo '90s & '00s
-NOW 90s00s
-Baby Shark TV
-Car City Adventures
-Bernard L'Orso
-Hell's Kitchen
-Forensic Files
-Weather Spy
-wedo Big Stories
-CGTN Documentary
-80 Anni - 2a Guerra Mondiale
-Euronews IN DIRETTA
-The Reuters 60
-Urania News
-Revry News
-Bloomberg Originals
-Bloomberg TV+
-Africanews
-CGTN
-NewsWorld
-France 24 FAST English
+top-movies-rakuten-tv
+action-rakuten-tv
+comedy-rakuten-tv
+drama-rakuten-tv
+romance-rakuten-tv
+asian-cinema-rakuten-tv
+sci-fi-rakuten-tv
+family-rakuten-tv
+bizzarro-movies
+cinema-italiano
+western-e-peplum
+dark-matter-it-new
+cg-cinema-d-autore
+brividy-cinema-ita
+grjngo-it
+risate-all-italiana
+crime-rakuten-tv
+filmrise-sci-fi-it
+filmrise-relic-hunter-ita
+serially-crime-ita
+andromeda-it
+soap-latino-it
+soap-turco-it
+risate-dal-sud-ita
+bbc-drama-it
+filmrise-highway-to-heaven-it
+rakuten-viki-new
+bbc-top-gear-it
+inazuma-eleven-go
+inuyasha
+yu-gi-oh-new-ita
+mr-bean-it
+mr-bean-live-action
+zdf-guardia-costiera
+zdf-squadra-speciale-lipsia
+the-pet-collective-new
+people-are-awesome-new
+revry
+jukin-fail-army-new
+top-barca-eng
+fifa-plus-it-new
+inter-24-7-ita
+fuel-tv-new
+billiards-tv
+hard-knocks-fighting-championship
+glory-kickboxing
+world-poker-tour
+sport-italia
+pfl-mma
+motorsport-tv-en
+racer-international
+golf-tv
+red-bull-tv-en
+motorvision-tv
+motoretro
+tennis-plus
+fashion-tv
+the-design-network-new
+per-caso-tv
+brindiamo
+travelxp-eng
+stingray-naturescape
+daystar-spa
+daystar-eng
+gusto-tv-new
+gambero-rosso
+metal-rocks
+qwest-tv
+radio-italia-trend
+stingray-greatest-hits
+stingray-hit-list
+stingray-remember-the-80-s
+qello-concerts-by-stingray
+deluxe-lounge-hd
+now-70s
+now-80s
+now-rock
+trace-urban
+vevo-pop-it
+vevo-pop-90-00-it
+now-90s00s
+baby-shark-tv
+car-city-adventures-it
+planeta-junior-ita
+hell-s-kitchen-it-itv
+filmrise-forensic-files-ita
+weather-spy-new
+wedo-big-stories-ita
+cgtn-documentary
+80-anni
+euronews-live-ita
+the-reuters-60
+urania-news
+revry-news
+bloomberg-originals-new
+bloomberg-tv-plus
+africanews-eng
+cgtn
+newsworld-ita
+france-24-en
 
