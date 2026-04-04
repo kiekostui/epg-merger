@@ -60,8 +60,8 @@ deejay.tv.it
 
 
 https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_pluto_it.xml
-691c5b2e74baa89ef7230baf
-6192605c9541940007d208f8
+62442f28afe626000747f195
+608aa4a4cc92820007b663af
 6911c9704316999535eb21cf
 6911c8dd8caba6f046c5c5d5
 6911c92b4316999535eb1e08
@@ -69,10 +69,13 @@ https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_plut
 66a0eea88561260008b1c5d0
 6245d3792792150007e20634
 67d9836ba1609bdb523f0c9d
+691c5b2e74baa89ef7230baf
 60b9ff2722bfa400072676ef
 60a2837f8154ab0007c4dcdf
 62e7fa5ab5062e0007dcf97d
 6349279ed5023700078f2bc2
+64fee60130ab3300084d9157
+69664afedcbf5c784492e422
 66d7120815d2c60008cec006
 66a8c7aefe11e500085b1587
 66a8c8b3d2d50d000821fc4c
@@ -91,7 +94,6 @@ https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_plut
 61c09e3ac210ed0007606620
 608aa5e995132a00075f7005
 64808a8c536e0c0008a276d1
-608aa4a4cc92820007b663af
 608aa512d67fd900072323db
 612e05b885183d0007958101
 62e7fb67478a5b0007e6c50c
@@ -108,8 +110,8 @@ https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_plut
 653660b4295b840008a70ba3
 66c35c0c92b1af0008c8e83a
 66c70033b1a34600087bb09a
-65cb73d33ba51e00084cabad
 62e8d5369e48940007fc1dc1
+65cb73d33ba51e00084cabad
 67ed14aaf7c5d70b9089c3bf
 61728bb9ee3773000840c1fa
 60802d37ee238e0007c94e64
@@ -129,11 +131,11 @@ https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_plut
 62e7fc8c0d061100083946a9
 64c109a4798def0008a6e03e
 69148c76e9dec35c9269a16c
+696e0fe49ba4ac18057433ac
 660bfc4424e1d000085b5f93
 608016e446d73500075ea7e0
 6616a51124e1d00008761a7e
 608030eff4b6f70007e1684c
-66461e4394d5580008cfd9c5
 679203d4bc03978b9b4b79a6
 671655b2daad7f00085d202d
 62bc1f502b70e3000706298e
@@ -143,12 +145,11 @@ https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_plut
 6093f48c95132a00075fd859
 65d7211d0d45610008ffcf92
 68adb5853efb41cd97ce413d
-67851bd7d648bf0008c00bc2
 6093f9281db477000759fce0
 6093f6f8351eb0000754afb8
 67f4f99729b03f18cb36647e
-63eb82e24e83e70008ab735f
 686cfdf894a028da3aac4252
+63eb82e24e83e70008ab735f
 686cfe983ffa5e0c91cdb5df
 65b90daed77d450008a43345
 612375086abc84000738fc03
@@ -156,9 +157,6 @@ https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_plut
 66a8c64814a2bb00084d09d6
 63eb573ba99571000897135b
 609401db8cf51c00084b592e
-63c012504faf1c0007abfa93
-6304ed62410a4c00083c0291
-666174c9f999220008769012
 6093f7b5bb49b90007cecaad
 664f0ddbf78a8500092dcffa
 608aa718a8ec810007d87fee
@@ -176,21 +174,22 @@ https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_plut
 
 
 https://raw.githubusercontent.com/kiekostui/rakuten_tv_it/refs/heads/main/epg_rakuten_it.xml
-western-e-peplum
+asian-cinema-rakuten-tv
+sci-fi-rakuten-tv
+bizzarro-movies
+cinema-italiano
+cine-western-e-peplum
 dark-matter-it-new
 cg-cinema-d-autore
-brividy-cinema-ita
 grjngo-it
 risate-all-italiana
 crime-rakuten-tv
 alarm-for-cobra-rakuten-tv
 filmrise-sci-fi-it
 filmrise-relic-hunter-ita
-serially-crime-ita
 andromeda-it
 soap-latino-it
 soap-turco-it
-risate-dal-sud-ita
 bbc-series-it
 filmrise-highway-to-heaven-it
 rakuten-viki-new
@@ -264,7 +263,6 @@ nature-time-ita
 wedo-big-stories-ita
 cgtn-documentary
 mayday-air-disaster-channel-ita
-80-anni
 euronews-live-ita
 the-reuters-60
 il-sole-24-ore-tv
@@ -276,3 +274,4 @@ africanews-eng
 cgtn
 newsworld-ita
 france-24-en
+
